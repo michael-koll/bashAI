@@ -10,4 +10,7 @@ input api key
 
 chmod
 
-set alias
+## Set alias
+```
+alias ai='~/YOUR_PATH/bashAI.sh' 
+```
