@@ -1,5 +1,9 @@
 # bashAI
 Simple command line tool to use AI directly in your terminal
+
+# Requirements
+jq - https://jqlang.github.io/jq/download/
+
 # Installation
 
 get api key
