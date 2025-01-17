@@ -17,3 +17,8 @@ Simple command line tool to use AI directly in your terminal
    ```
    alias ai='~/YOUR_PATH/bashAI.sh' 
    ```
+# Usage
+```
+<input> | ai <question>
+```
+# Examples
