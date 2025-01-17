@@ -13,8 +13,7 @@ Simple command line tool to use AI directly in your terminal
    ```
    chmod +x bashAI.sh
    ```
-
-## Set alias
-```
-alias ai='~/YOUR_PATH/bashAI.sh' 
-```
+5. Setup an Alias
+   ```
+   alias ai='~/YOUR_PATH/bashAI.sh' 
+   ```
