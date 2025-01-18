@@ -8,7 +8,7 @@ Simple command line tool to use AI directly in your terminal
 # Installation
 
 1. Download the script
-2. Input your API key into `API_KEY`
+2. Replace `API_KEY` with your own API key
 3. Give the file execute permissions:
    ```
    chmod +x bashAI.sh
