@@ -27,4 +27,4 @@ Add context to your research:
 ![image](https://github.com/user-attachments/assets/90f7e853-7cda-4395-8da2-39698cdaacb0)
 Filter your data:
 
-![image](https://github.com/user-attachments/assets/6c7818ae-06da-4134-ad0c-2fbf67b4d4e7)
+![image](https://github.com/user-attachments/assets/a04c243a-2703-4bfc-b0ec-7e0b1a55b7a2)
