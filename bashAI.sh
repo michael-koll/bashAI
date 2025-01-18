@@ -4,7 +4,7 @@ API_ENDPOINT="https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5
 API_KEY="API_KEY" # Replace with your API key
 
 if [ -z "$1" ]; then
-  echo "Usage: <input> | $0 \"Your question..."
+  echo "Usage: <input> | $0 <question>"
   exit 1
 fi
 
