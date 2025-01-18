@@ -10,7 +10,7 @@
 
 1. Download the script
 2. Replace `API_KEY` with your own API key
-3. Give the file execute permissions:
+4. Give the file execute permissions:
    ```
    chmod +x bashAI.sh
    ```
@@ -18,6 +18,7 @@
    ```
    alias ai='~/YOUR_PATH/bashAI.sh' 
    ```
+6.(Adapt the `PROMPT` to fit your tasks) 
 # Usage
 ```
 <input> | ai <question>
