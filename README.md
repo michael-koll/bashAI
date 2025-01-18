@@ -9,7 +9,7 @@ Simple command line tool to use AI directly in your terminal
 
 1. Download the script
 2. Input your API key into `API_KEY`
-3. Chmod the file:
+3. Give the file execute permissions:
    ```
    chmod +x bashAI.sh
    ```
@@ -22,5 +22,5 @@ Simple command line tool to use AI directly in your terminal
 <input> | ai <question>
 ```
 # Examples
-## Let the AI add information to your research
+Let the AI add information to your research:
 ![image](https://github.com/user-attachments/assets/90f7e853-7cda-4395-8da2-39698cdaacb0)
