@@ -1,4 +1,5 @@
 # bashAI
+Command-line tool that uses pipes to seamlessly integrate AI into your workflow.
 ## Requirements
 - jq - https://jqlang.github.io/jq/download/
 - Gemini API Key - https://ai.google.dev/gemini-api/docs/api-key
