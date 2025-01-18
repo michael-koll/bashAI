@@ -18,7 +18,7 @@
    ```
    alias ai='~/YOUR_PATH/bashAI.sh' 
    ```
-6.(Adapt the `PROMPT` to fit your tasks) 
+6. (Adapt the `PROMPT` to fit your tasks) 
 # Usage
 ```
 <input> | ai <question>
