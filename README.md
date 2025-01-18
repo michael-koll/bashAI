@@ -1,5 +1,6 @@
 # bashAI
-Simple command line tool to use AI directly in your terminal
+Command line tool to use AI directly in your terminal.
+Simply pipe your input in bashAI and add your prompt.
 
 # Requirements
 - jq - https://jqlang.github.io/jq/download/
